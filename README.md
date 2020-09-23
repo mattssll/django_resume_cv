@@ -4,7 +4,7 @@ This is a front-end website built with html/css, rendered on Django, and deploye
 
 
 ### This is the Tech. Stack used here:
-<img src="stackflaskmysql.png">
+<img src="techstack.png">
 
 
 We'll be using Python and Virtualenv to start with it.<br>
